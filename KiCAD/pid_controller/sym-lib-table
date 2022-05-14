@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "pid_controller-rescue")(type "Legacy")(uri "${KIPRJMOD}/pid_controller-rescue.lib")(options "")(descr ""))
+  (lib (name "dc_dc_converter")(type "KiCad")(uri "${KIPRJMOD}/dc_dc_converter.kicad_sym")(options "")(descr ""))
+)
