@@ -2592,7 +2592,7 @@
     (uuid ffdc8c04-bf56-49d3-afff-95e71f1cd5de)
   )
 
-  (image (at -33.02 64.77)
+  (image (at 102.87 91.44) (scale 0.528897)
     (uuid 47a8f1bb-ba2f-4dc5-8805-6c2bc5d9facc)
     (data
       iVBORw0KGgoAAAANSUhEUgAAA00AAALDCAIAAABGrHxnAAAAA3NCSVQICAjb4U/gAAAACXBIWXMA
@@ -7476,11 +7476,11 @@
       TkSuQmCC
     )
   )
-  (image (at 259.08 -22.86)
+  (image (at 247.65 95.25) (scale 0.820408)
     (uuid e4308ca6-a148-4ac0-a25a-98cb41c929dc)
     (data
       iVBORw0KGgoAAAANSUhEUgAAA04AAAFzCAIAAACGuc6MAAAAA3NCSVQICAjb4U/gAAAACXBIWXMA
-      ABJ0AAASdAHeZh94AAAgAElEQVR4nJy9aaxsSXIeFhGZedba7v7eu2/rvWemNZwectxDcWZo0Byb
+      ABJcAAASXAFoxDaJAAAgAElEQVR4nJy9aaxsSXIeFhGZedba7v7eu2/rvWemNZwectxDcWZo0Byb
       Ig3/sOFfNiz4l2BYkAEbBgyIAwP+YYAQYMAG/EdeaFoQxLG5CKIJyhBAmRTJITkiR7P38l6//d19
       qeWsuYR/ZNW5556qe7upxMVF1alcIiMjI76MjMyDVVUBADMjIiLC5cTMnSfLeTo/ISIzO+eY0Tkn
       BPpKcJH8V2Zernxlnb7aJn+HgMuVuOU6Ww0RABBd6sUn0kAkfXfa9DS9aGrwDGxaQeTmv/9VyFYv
@@ -17763,7 +17763,7 @@
     (uuid 5d7077ca-9ae1-43cf-8b27-44774b0a80e9)
   )
   (text "INFO:\nR17 to dim the BKG LED and decrease current consumption\n"
-    (at 224.79 88.9 0)
+    (at 162.56 76.2 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bc64cd90-3cf1-4389-a8e6-3d3722f8d1a2)
   )
