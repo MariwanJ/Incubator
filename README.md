@@ -7,6 +7,10 @@ Another arduino was used for the eggs-Turner.
 Feel free to modify, improve and send PR to my github. 
 
 Note:
-This project is made in 2020. 
+1-This project is made in 2020. 
+2-I added photo from the first version which I built and used. It is faulty.
+  I added the photos to make it clear what were wrong. So when you check the new
+  design you know that they are targeted and fixed. 
+  
 
-Mariwan Jalal
+Mariwan Jalal 2022-06-03
