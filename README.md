@@ -13,6 +13,6 @@ Note:
   I added the photos to make it clear what were wrong. So when you check the new
   design you know that they are targeted and fixed. 
   
-3-Updated to fix some other issues and add more footprint.  (KICAD 7.0)
+3-Updated to fix some other issues and add more footprints.  (KICAD 7.0)
 
 Mariwan Jalal 2023-05-13
