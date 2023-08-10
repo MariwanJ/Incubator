@@ -123,8 +123,8 @@ void inline SwitchPressed(void){
      dirCW=0;
      dirCCW=0;
 }
-//Do all necessary calculation and action regarding chaning the rotary encoder
-void inline MenyAction(void) {
+//Do all necessary calculation and action regarding changing the rotary encoder
+void inline MenuAction(void) {
   if (menu_activated == 1)
   {
   if(dirCW){
@@ -479,5 +479,5 @@ void loop() {
     last_ksave = ksave;
   }//end of menu 5
   
- MenyAction();  //Update the status of the menus and do the action required. 
+ MenuAction();  //Update the status of the menus and do the action required. 
 }//Loop end
