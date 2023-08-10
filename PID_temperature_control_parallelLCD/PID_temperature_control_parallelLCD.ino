@@ -16,7 +16,7 @@
 
 //LM35ND
 #include <PreciseLM35.h>
-const float StepsToMaxPWMOutput= 0.147058824;   // 37,5/255
+const float StepsToMaxPWMOutput= 0.147058824;   // 37.5/255
 
 const int RS = 10;
 const int EN = 2;
