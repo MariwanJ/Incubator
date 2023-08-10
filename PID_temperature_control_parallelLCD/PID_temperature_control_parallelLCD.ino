@@ -66,7 +66,7 @@ int button_pressed = 0;
 int menu_activated = 0;
 float last_set_temperature = 0;
 
-//Vraiables for rotary encoder state detection
+//Variables for rotary encoder state detection
 int clk_State;
 int Last_State;
 bool dt_State;
