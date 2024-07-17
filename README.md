@@ -1,4 +1,4 @@
-# Incubator : Incubator Using PID controller - Arduino Nano.
+# Incubator Using PID controller - Arduino Nano.
 ![Top](Top.png)
 
  
