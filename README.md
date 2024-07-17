@@ -1,7 +1,7 @@
-# Incubator
+# Incubator : Incubator Using PID controller - Arduino Nano.
 ![Top](Top.png)
 
-Incubator Using PID controller - Arduino Nano. 
+ 
 
 The incubator system is built using an Arduino Nano and a PID controller. The key components include:
 
