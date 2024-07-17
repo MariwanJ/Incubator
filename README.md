@@ -20,10 +20,10 @@ Feel free to modify, improve, and submit pull requests to the GitHub repository 
 
 Additional Notes:
 
-    This incubator project was originally developed in 2020.
+- This incubator project was originally developed in 2020.
 
-    The photos included show an earlier, faulty version of the incubator. These were added to demonstrate the issues that were targeted and fixed in the updated design.
+- The photos included show an earlier, faulty version of the incubator. These were added to demonstrate the issues that were targeted and fixed in the updated design.
 
-    The design has been further updated to fix other issues and add more footprints, using KICAD 7.0.
+- The design has been further updated to fix other issues and add more footprints, using KICAD 7.0.
 
 Mariwan Jalal 2023-05-13
