@@ -5,10 +5,10 @@
 
 The incubator system is built using an Arduino Nano and a PID controller. The key components include:
 
-    Incubator enclosure
-    PID controller for temperature regulation
-    Arduino Nano as the main microcontroller
-    Egg turner mechanism for gently rotating the eggs during incubation
+- Incubator enclosure
+- PID controller for temperature regulation
+- Arduino Nano as the main microcontroller
+- Egg turner mechanism for gently rotating the eggs during incubation
 
 The egg turner is an essential part of the incubator system, as it helps ensure the eggs develop properly by exposing different areas to the heat and humidity within the incubator. 
 
